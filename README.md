@@ -1,2 +1,3 @@
-# 2017
-archived 2017 website
+# TEDxBerkeley 2017
+
+Event website for the TEDxBerkeley 2017 event
